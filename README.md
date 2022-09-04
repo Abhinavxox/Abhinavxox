@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **meronaamabhinav@gmail.com**
 
-- Website **meronaamabhinav@gmail.com**
+- Website **[PORTFOLIO](https://abhinavxox.github.io/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
