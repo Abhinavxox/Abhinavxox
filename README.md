@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I'm Abhinav Pandey, <br>CSE-AI student, <br>Member at amFOSS, <br>Web developer,<br>Musician and <br>Philanthropist.
+I'm Abhinav Pandey, <br>CSE-AI student, <br>Member at [amFOSS](https://amfoss.in/), <br>Web developer,<br>Musician and <br>Philanthropist.
 
 ![](https://komarev.com/ghpvc/?username=abhinavxox&label=Profile%20views&color=green&style=flat)
 
