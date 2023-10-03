@@ -7,6 +7,9 @@ I'm Abhinav Pandey, <br>CSE-AI student, <br>Member at [amFOSS](https://amfoss.in
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhina_v1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/itsmeabhinavpandey) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@meronaamabhinav) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MeroNaamAbhinav) [![Hashnode](https://img.shields.io/badge/Hashnode-%231DA1F2.svg?logo=Hashnode&logoColor=white&color=purple)](https://meronaamabhinav.hashnode.dev/) 
 
+## 🦖 Holopins Badges
+[![An image of @abhinavxox's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhinavxox)](https://holopin.io/@abhinavxox)
+
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=MeroNaamAbhinav)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
