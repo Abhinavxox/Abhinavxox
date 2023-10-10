@@ -10,8 +10,6 @@ I'm Abhinav Pandey, <br>CSE-AI student, <br>Member at [amFOSS](https://amfoss.in
 ## 🦖 Holopins Badges
 [![An image of @abhinavxox's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhinavxox)](https://holopin.io/@abhinavxox)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=MeroNaamAbhinav)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abhinavxox&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4)
