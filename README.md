@@ -74,12 +74,14 @@
 <div align="center">
 <a href="https://github.com/abhinavxox">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhinavxox&theme=github_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhinavxox&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhinavxox&theme=2077" height="180em" />
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavxox&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+  
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhinavxox&theme=github_dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinavxox&theme=github_dark" height="180em" />
 </div>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavxox&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  
 
 
 
