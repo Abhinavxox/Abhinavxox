@@ -30,7 +30,7 @@ I work on **GenAI systems**, **LLM orchestration**, **RL fine-tuning**, and **cl
 
 - **SDE** @ [Margati Inc.](https://www.margati.com/) — AI research & backend systems
 - **Technical Consultant – DevOps** @ [IIONS Tech](https://www.iionstech.com.np/) — cloud & CI/CD
-- Previously **Lead SDE** @ [ResumeSkool](https://resumeskool.com/) · **Member & Mentor** @ [amFOSS](https://amfoss.in/)
+- Previously **SDE-Intern** @ [ResumeSkool](https://resumeskool.com/) · **Ex-Member & Ex-Mentor** @ [amFOSS](https://amfoss.in/)
 
 ### Tech I work with
 
