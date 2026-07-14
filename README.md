@@ -10,7 +10,7 @@ Building LLM pipelines, cloud infra, and production-grade full-stack systems.
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-domain.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abhinavpandey.com.np/)
 [![Resume](https://img.shields.io/badge/Resume-PDF-0e75b6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/abhinavxox/abhinavxox/blob/main/Abhinav_CV.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsmeabinavpandey/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MeroNaamAbhinav)
